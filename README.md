@@ -9,4 +9,4 @@ Instructions:
 - Enable the 'Hangouts Chat' API
 - Open API configuration
 - Select 'Bot url'
-- Use the following format: `https://registrar.parrot.workersdev/bot/tld/[TOKEN]`
+- Use the following format: `https://registrar.parrot.workers.dev/bot/tld/[TOKEN]`
